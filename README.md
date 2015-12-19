@@ -1,8 +1,4 @@
 # SurfaceUDP (PixelSense)
-vanessa.vuibert@mail.mcgill.ca
-
-ilja.frissen@mcgill.ca
-
 Sends TouchDown, TouchUp and TouchMove Surface 2.0 events through UDP.
 
 ### Receiver
@@ -20,6 +16,9 @@ Topmost="True" WindowState="Maximized" ResizeMode="NoResize"
 ### How to close the Surface app
 Press alt+F4
 
-##Recommendations:
+## Recommendations
 - Clean the touchscreen.
 - Check the calibration.
+
+## Contributors
+vanessa.vuibert@mail.mcgill.ca
