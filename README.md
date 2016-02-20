@@ -18,7 +18,7 @@ Press alt+F4
 
 ## Recommendations
 - Clean the touchscreen.
-- Check the calibration.
+- Check the calibration using the Environment Lighting Optimizer. If it's not calibrated, use the SUR40 Calibration Tool.
 
 ## Contributors
 vanessa.vuibert@mail.mcgill.ca
