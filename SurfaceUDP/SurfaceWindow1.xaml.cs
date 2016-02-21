@@ -45,7 +45,7 @@ namespace SurfaceUDP
             s.Close(1);
         }
 
-        // Use this for testing in a regular PC. Comment out while using Surface
+        /*// Use this for testing in a regular PC. Comment out while using Surface
         protected override void OnMouseLeftButtonDown(MouseButtonEventArgs e)
         {
             Point pos = e.GetPosition(this);
@@ -73,7 +73,7 @@ namespace SurfaceUDP
                          pos.Y.ToString() + "," +
                          "0";
             SendMessage("OnTouchMove", arg);
-        }
+        }*/
 
         private void OnTouchDown(object sender, TouchEventArgs e)
         {
